@@ -1,8 +1,8 @@
 # blurhash-purebasic
-BlurHash encoder and decoder library for PureBasic, by [kenmo-pb](https://github.com/kenmo-pb)
+BlurHash encoder and decoder library for [PureBasic](http://purebasic.com), by [kenmo-pb](https://github.com/kenmo-pb)
 
 ## What is BlurHash?
-BlurHash is a small algorithm by [Dag Ågren](https://github.com/DagAgren) / [Wolt](https://github.com/woltapp) for encoding an image to a short string (typically 20-30 characters), which can be decoded to a colorful, blurred placeholder image.
+[BlurHash](https://blurha.sh) is a small algorithm by [Dag Ågren](https://github.com/DagAgren) / [Wolt](https://github.com/woltapp) for encoding an image to a short string (typically 20-30 characters), which can be decoded to a colorful, blurred placeholder image.
 
 ![Encode/decode example](https://github.com/woltapp/blurhash/raw/master/Media/HowItWorks2.jpg)
 
